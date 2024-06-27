@@ -1,0 +1,282 @@
+[
+    {
+        "prompt": "¿Qué dice el artículo 1 de la Constitución de Cádiz?",
+        "response": "El artículo 1 de la Constitución de Cádiz dice: 'La Nación española es la reunión de todos los españoles de ambos hemisferios.'"
+    },
+    {
+        "prompt": "¿Qué dice el artículo 5 de la Constitución de Cádiz?",
+        "response": "El artículo 5 de la Constitución de Cádiz dice: 'Son españoles: Primero. Todos los hombres libres nacidos y avecindados en los dominios de las Españas, y los hijos de éstos. Segundo. Los extranjeros que hayan obtenido de las Cortes cartas de naturaleza. Tercero. Los que sin ella lleven diez años de vecindad, ganada según la ley en cualquier pueblo de la Monarquía. Cuarto. Los libertos desde que adquieran la libertad en las Españas.'"
+    },
+    {
+        "prompt": "¿Cómo aborda la Constitución de Cádiz el tema de la vivienda?",
+        "response": "La Constitución de Cádiz no menciona explícitamente el derecho a la vivienda, pero establece que la Nación debe proteger los derechos de los individuos, lo cual puede interpretarse como una obligación de asegurar condiciones dignas de vida."
+    },
+    {
+        "prompt": "¿Qué dice la Constitución de Cádiz sobre la religión?",
+        "response": "La Constitución de Cádiz establece que la religión de la Nación española es y será perpetuamente la católica, apostólica, romana, y prohíbe el ejercicio de cualquier otra religión."
+    },
+    {
+        "prompt": "¿Qué se dice sobre el papel de las mujeres en la Constitución de Cádiz?",
+        "response": "La Constitución de Cádiz no aborda directamente el papel de las mujeres ni promueve la igualdad de género. Las mujeres no tenían derechos políticos como votar o ser elegidas."
+    },
+    {
+        "prompt": "¿Qué obligaciones tienen los ciudadanos respecto a la vivienda según la Constitución de Cádiz?",
+        "response": "Aunque la Constitución de Cádiz no menciona directamente la vivienda, los ciudadanos están obligados a contribuir al bienestar de la Nación, lo cual incluye vivir en condiciones dignas y contribuir a los gastos del Estado."
+    },
+    {
+        "prompt": "¿Cómo protege la Constitución de Cádiz la libertad religiosa?",
+        "response": "La Constitución de Cádiz no protege la libertad religiosa, ya que declara que la única religión permitida es la católica, apostólica, romana, y prohíbe el ejercicio de cualquier otra."
+    },
+    {
+        "prompt": "¿Qué derechos tienen las mujeres según la Constitución de Cádiz?",
+        "response": "La Constitución de Cádiz no otorga derechos específicos a las mujeres y no les permite participar en la vida política. Los derechos civiles y políticos estaban reservados principalmente para los hombres."
+    },
+    {
+        "prompt": "¿Cuál es el enfoque de la Constitución de Cádiz sobre la propiedad de la vivienda?",
+        "response": "La Constitución de Cádiz protege la propiedad privada en general, estableciendo que la Nación debe conservar y proteger la propiedad y otros derechos legítimos de todos los individuos."
+    },
+    {
+        "prompt": "¿Hay alguna mención sobre la igualdad de género en la Constitución de Cádiz?",
+        "response": "No, la Constitución de Cádiz no menciona la igualdad de género ni proporciona derechos específicos a las mujeres en términos de participación política o igualdad social."
+    },
+    {
+        "prompt": "¿Cómo se asegura el cumplimiento de la protección de derechos en la Constitución de Cádiz?",
+        "response": "La Nación está obligada a conservar y proteger por leyes sabias y justas la libertad civil, la propiedad y los demás derechos legítimos de todos los individuos que la componen."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la educación de las mujeres?",
+        "response": "La Constitución de Cádiz no establece disposiciones específicas sobre la educación de las mujeres. La educación en general se enfocaba más en los hombres y en formar ciudadanos activos."
+    },
+    {
+        "prompt": "¿La Constitución de Cádiz menciona el derecho a la salud?",
+        "response": "La Constitución de Cádiz no menciona específicamente el derecho a la salud, aunque establece que la Nación debe proteger los derechos legítimos de los individuos, lo cual puede incluir la salud."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la libertad de expresión?",
+        "response": "La Constitución de Cádiz establece la libertad de escribir, imprimir y publicar ideas políticas sin necesidad de licencia, revisión o aprobación previa."
+    },
+    {
+        "prompt": "¿Hay alguna regulación sobre la vivienda en la Constitución de Cádiz?",
+        "response": "No, la Constitución de Cádiz no tiene regulaciones específicas sobre la vivienda, pero protege la propiedad privada y los derechos individuales en general."
+    },
+    {
+        "prompt": "¿La Constitución de Cádiz aborda la discriminación de género?",
+        "response": "No, la Constitución de Cádiz no aborda la discriminación de género ni establece medidas para promover la igualdad entre hombres y mujeres."
+    },
+    {
+        "prompt": "¿Qué papel tiene la religión en la vida pública según la Constitución de Cádiz?",
+        "response": "La religión católica, apostólica, romana, es la única permitida y protegida por la Constitución de Cádiz, influyendo fuertemente en la vida pública y privada."
+    },
+    {
+        "prompt": "¿Qué derechos de propiedad protege la Constitución de Cádiz?",
+        "response": "La Constitución de Cádiz protege la propiedad privada, estableciendo que la Nación debe conservar y proteger la propiedad y otros derechos legítimos de todos los individuos."
+    },
+    {
+        "prompt": "¿Cómo se trata la libertad de religión en la Constitución de Cádiz?",
+        "response": "La Constitución de Cádiz no garantiza la libertad de religión, ya que establece la religión católica como la única verdadera y prohíbe el ejercicio de cualquier otra religión."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la participación política de las mujeres?",
+        "response": "La Constitución de Cádiz no permite la participación política de las mujeres, reservando los derechos de votar y ser elegidos principalmente para los hombres."
+    },
+    {
+        "prompt": "¿Qué derechos establece la Constitución de Cádiz?",
+        "response": "La Constitución de Cádiz establece los derechos de libertad, igualdad y propiedad, entre otros."
+    },
+    {
+        "prompt": "¿Cuáles son los principios fundamentales de la Constitución de Cádiz?",
+        "response": "Los principios fundamentales incluyen la soberanía nacional, la división de poderes y la garantía de derechos individuales."
+    },
+    {
+        "prompt": "¿Quiénes son considerados españoles según la Constitución de Cádiz?",
+        "response": "Son españoles todos los hombres libres nacidos y avecindados en los dominios de las Españas, y los hijos de éstos, así como los extranjeros que hayan obtenido cartas de naturaleza y los libertos desde que adquieran la libertad en las Españas."
+    },
+    {
+        "prompt": "¿Dónde reside la soberanía según la Constitución de Cádiz?",
+        "response": "La soberanía reside esencialmente en la Nación."
+    },
+    {
+        "prompt": "¿Qué obligaciones tienen los españoles según la Constitución de Cádiz?",
+        "response": "Los españoles están obligados a ser fieles a la Constitución, obedecer las leyes, respetar las autoridades establecidas, contribuir para los gastos del Estado y defender la Patria con las armas cuando sea llamado por la ley."
+    },
+    {
+        "prompt": "¿Cómo se define la Nación española en la Constitución de Cádiz?",
+        "response": "La Nación española es la reunión de todos los españoles de ambos hemisferios."
+    },
+    {
+        "prompt": "¿Qué tipo de religión establece la Constitución de Cádiz?",
+        "response": "La Constitución de Cádiz establece que la religión de la Nación española es y será perpetuamente la católica, apostólica, romana, única verdadera."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la potestad de hacer leyes?",
+        "response": "La potestad de hacer las leyes reside en las Cortes con el Rey."
+    },
+    {
+        "prompt": "¿Qué garantiza la Nación según la Constitución de Cádiz?",
+        "response": "La Nación está obligada a conservar y proteger por leyes sabias y justas la libertad civil, la propiedad y los demás derechos legítimos de todos los individuos que la componen."
+    },
+    {
+        "prompt": "¿Cuál es el objeto del Gobierno según la Constitución de Cádiz?",
+        "response": "El objeto del Gobierno es la felicidad de la Nación, puesto que el fin de toda sociedad política no es otro que el bienestar de los individuos que la componen."
+    },
+    {
+        "prompt": "¿Qué requisitos deben cumplir los extranjeros para ser considerados ciudadanos españoles según la Constitución de Cádiz?",
+        "response": "Los extranjeros deben estar casados con española, haber traído o fijado alguna invención o industria apreciable, adquirido bienes raíces, establecido en el comercio con un capital propio o considerable, o hecho servicios señalados en bien y defensa de la Nación."
+    },
+    {
+        "prompt": "¿Qué prohíbe la Constitución de Cádiz en relación con la propiedad?",
+        "response": "Prohíbe que la Nación sea patrimonio de ninguna familia ni persona."
+    },
+    {
+        "prompt": "¿Qué debe hacer todo español según la Constitución de Cádiz en términos de contribuciones?",
+        "response": "Todo español está obligado a contribuir en proporción de sus haberes para los gastos del Estado."
+    },
+    {
+        "prompt": "¿Qué responsabilidad tienen las Cortes según la Constitución de Cádiz?",
+        "response": "Las Cortes son responsables de proponer y decretar las leyes, interpretarlas y derogarlas en caso necesario, además de recibir el juramento al Rey, al Príncipe de Asturias y a la Regencia."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre el ejercicio de los derechos ciudadanos?",
+        "response": "El ejercicio de los derechos ciudadanos puede suspenderse por incapacidad física o moral, estado de deudor quebrado, estado de sirviente doméstico, no tener empleo, oficio o modo de vivir conocido, o hallarse procesado criminalmente."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la libertad de imprenta?",
+        "response": "Todos los españoles tienen libertad de escribir, imprimir y publicar sus ideas políticas sin necesidad de licencia, revisión o aprobación alguna anterior a la publicación, bajo las restricciones y responsabilidad que establezcan las leyes."
+    },
+    {
+        "prompt": "¿Qué regulación establece la Constitución de Cádiz sobre la propiedad nacional?",
+        "response": "La Constitución establece que no se puede tomar la propiedad de ningún particular ni corporación sin indemnización y buen cambio, y que cualquier cesión o enajenación de bienes nacionales requiere el consentimiento de las Cortes."
+    },
+    {
+        "prompt": "¿Cómo se eligen los Diputados de Cortes según la Constitución de Cádiz?",
+        "response": "Para la elección de los Diputados de Cortes se celebrarán juntas electorales de parroquia, de partido y de provincia, con una base de representación nacional igual en ambos hemisferios."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la duración de las sesiones de las Cortes?",
+        "response": "Las sesiones de las Cortes en cada año durarán tres meses consecutivos, dando principio el día 1º de marzo, con posibilidad de prorrogarse un mes más a petición del Rey o si las Cortes lo creen necesario."
+    },
+    {
+        "prompt": "¿Qué autoridad tiene el Rey según la Constitución de Cádiz?",
+        "response": "El Rey tiene la autoridad de hacer ejecutar las leyes, declarar la guerra, hacer y ratificar la paz, nombrar magistrados y empleados civiles y militares, y dirigir las relaciones diplomáticas y comerciales."
+    },
+    {
+        "prompt": "¿Qué limitaciones impone la Constitución de Cádiz al Rey?",
+        "response": "El Rey no puede impedir la celebración de las Cortes, ausentarse del Reino sin consentimiento de las Cortes, ceder la autoridad real sin su consentimiento, enajenar parte del territorio español, hacer alianzas ofensivas o tratados sin el consentimiento de las Cortes, ni imponer contribuciones sin que las decreten las Cortes."
+    },
+    {
+        "prompt": "¿Cómo se protege la libertad individual según la Constitución de Cádiz?",
+        "response": "Ningún individuo puede ser privado de su libertad ni imponerle pena alguna sin un proceso judicial adecuado, y cualquier arresto debe ser justificado y entregado a disposición del tribunal competente en 48 horas."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre el sistema de enseñanza pública?",
+        "response": "Habrá un plan general de enseñanza uniforme en todo el Reino, incluyendo la explicación de la Constitución en todas las Universidades y establecimientos literarios, y una Dirección general de estudios bajo la autoridad del Gobierno."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la división del territorio español?",
+        "response": "El territorio español comprende tanto las provincias de la Península como las posesiones en América y Asia, y se hará una división más conveniente del territorio por una ley constitucional cuando las circunstancias lo permitan."
+    },
+    {
+        "prompt": "¿Cómo se determina la representación en las Cortes según la Constitución de Cádiz?",
+        "response": "Por cada 70.000 almas de la población habrá un Diputado de Cortes, y las provincias con menos de 70.000 pero más de 35.000 almas elegirán un Diputado, mientras que las provincias con menos de 35.000 se unirán a la inmediata."
+    },
+    {
+        "prompt": "¿Qué se requiere para ser Diputado de Cortes según la Constitución de Cádiz?",
+        "response": "Para ser Diputado se requiere ser ciudadano en ejercicio de sus derechos, mayor de 25 años, haber nacido en la provincia o estar avecindado en ella por al menos siete años, y tener una renta anual proporcionada procedente de bienes propios."
+    },
+    {
+        "prompt": "¿Cómo se regula la suspensión de los derechos de ciudadano según la Constitución de Cádiz?",
+        "response": "La suspensión de los derechos de ciudadano puede ocurrir por interdicción judicial, estado de deudor, estado de sirviente doméstico, falta de empleo o modo de vivir conocido, o estar procesado criminalmente."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la religión de la Nación española?",
+        "response": "La religión de la Nación española es la católica, apostólica, romana, y se prohíbe el ejercicio de cualquier otra."
+    },
+    {
+        "prompt": "¿Qué obligaciones tienen las autoridades respecto a la Constitución de Cádiz?",
+        "response": "Todas las autoridades civiles, militares y eclesiásticas deben guardar y hacer guardar la Constitución, cumplirla y ejecutarla en todas sus partes."
+    },
+    {
+        "prompt": "¿Qué derechos tienen los españoles en relación con la educación según la Constitución de Cádiz?",
+        "response": "Todos los españoles tienen derecho a recibir educación, y se establecerán escuelas de primeras letras en todos los pueblos, así como universidades y otros establecimientos de instrucción."
+    },
+    {
+        "prompt": "¿Qué medidas establece la Constitución de Cádiz para la administración de justicia?",
+        "response": "La administración de justicia debe ser pronta y cumplida, y la potestad de aplicar las leyes en causas civiles y criminales reside en los Tribunales establecidos por la ley."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre las milicias nacionales?",
+        "response": "Habrá cuerpos de milicias nacionales en cada provincia, compuestos por habitantes de cada una de ellas, cuyo servicio no será continuo y solo se activará cuando las circunstancias lo requieran."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la dotación de la familia Real?",
+        "response": "Las Cortes señalarán al Rey la dotación anual de su casa y los alimentos de la familia real, incluyendo al Príncipe de Asturias y a los Infantes e Infantas."
+    },
+    {
+        "prompt": "¿Cómo se eligen los Secretarios del Despacho según la Constitución de Cádiz?",
+        "response": "Los Secretarios del Despacho son nombrados y separados libremente por el Rey, y son responsables ante las Cortes de sus actos en el desempeño de sus funciones."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la formación de las leyes?",
+        "response": "Todos los Diputados tienen la facultad de proponer proyectos de ley, los cuales se discutirán y aprobarán según las formalidades y trámites prescritos en la Constitución."
+    },
+    {
+        "prompt": "¿Qué responsabilidades tienen los Secretarios del Despacho según la Constitución de Cádiz?",
+        "response": "Los Secretarios del Despacho son responsables de los actos de su administración, y deben rendir cuentas de los gastos realizados en sus respectivos ramos ante las Cortes."
+    },
+    {
+        "prompt": "¿Cómo se asegura la observancia de la Constitución de Cádiz?",
+        "response": "Las Cortes velarán por la observancia de la Constitución y adoptarán medidas para corregir cualquier infracción, además, cualquier español tiene derecho a reclamar la observancia de la Constitución ante las Cortes o el Rey."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la sucesión al trono?",
+        "response": "La sucesión al trono se realiza por el orden regular de primogenitura y representación entre los descendientes legítimos de las líneas establecidas, prefiriendo siempre los varones a las hembras en el mismo grado y línea."
+    },
+    {
+        "prompt": "¿Qué garantías ofrece la Constitución de Cádiz para la defensa de la Nación?",
+        "response": "Habrá una fuerza militar nacional permanente para la defensa exterior del Estado y la conservación del orden interior, y ningún español podrá excusarse del servicio militar cuando sea llamado por la ley."
+    },
+    {
+        "prompt": "¿Cómo se regula la división de poderes según la Constitución de Cádiz?",
+        "response": "La Constitución establece la división de poderes en legislativo, ejecutivo y judicial, con las Cortes y el Rey compartiendo la potestad de hacer las leyes, el Rey ejecutando las leyes y los Tribunales aplicándolas."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre las aduanas y aranceles?",
+        "response": "Las aduanas solo estarán en los puertos de mar y en las fronteras, y las Cortes determinarán los aranceles de derechos y el sistema más justo de pesos y medidas."
+    },
+    {
+        "prompt": "¿Qué condiciones deben cumplir los españoles para participar en las elecciones según la Constitución de Cádiz?",
+        "response": "Para participar en las elecciones, los españoles deben ser ciudadanos en ejercicio de sus derechos, saber leer y escribir a partir del año 1830, y no estar en estado de deudor, procesado criminalmente o en otras condiciones de incapacidad."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la educación del Príncipe de Asturias?",
+        "response": "Las Cortes establecerán el plan de educación para el Príncipe de Asturias, asegurando que reciba la instrucción adecuada para su futura función."
+    },
+    {
+        "prompt": "¿Qué facultades tienen las Cortes según la Constitución de Cádiz?",
+        "response": "Las Cortes tienen facultades para proponer y decretar leyes, recibir el juramento del Rey, resolver dudas sobre la sucesión a la Corona, elegir Regencia, aprobar tratados, fijar fuerzas militares y gastos públicos, y proteger la libertad política de la imprenta."
+    },
+    {
+        "prompt": "¿Cómo se organiza la Dirección general de estudios según la Constitución de Cádiz?",
+        "response": "La Dirección general de estudios estará compuesta por personas de conocida instrucción, encargadas de la inspección de la enseñanza pública bajo la autoridad del Gobierno."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre la representación nacional en las Cortes?",
+        "response": "La representación nacional se basa en la población, con un Diputado por cada 70.000 almas, y las provincias con menos de 70.000 pero más de 35.000 almas elegirán un Diputado, mientras que las provincias con menos de 35.000 se unirán a la inmediata."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre los bienes nacionales?",
+        "response": "El Rey no puede ceder ni enajenar los bienes nacionales sin el consentimiento de las Cortes, y cualquier toma de propiedad debe ser indemnizada y aprobada por hombres buenos."
+    },
+    {
+        "prompt": "¿Cómo se regula la emisión de órdenes de arresto según la Constitución de Cádiz?",
+        "response": "El Rey puede expedir órdenes de arresto solo si el bien y seguridad del Estado lo exigen, y debe entregar al arrestado a disposición del tribunal competente en 48 horas."
+    },
+    {
+        "prompt": "¿Qué establece la Constitución de Cádiz sobre las visitas a las cárceles?",
+        "response": "La ley determinará la frecuencia de las visitas a las cárceles, y no habrá preso alguno que deje de presentarse a ella bajo ningún pretexto."
+    },
+    {
+        "prompt": "Hola",
+        "response": "Bienvenido, que quieres saber sobre la Constitución'"
+    }
+]
